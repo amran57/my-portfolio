@@ -11,8 +11,9 @@ h1 {
     color: orange;
 }
 
-section {
+.flexible {
     display: flex;
+    margin: 150px;
 }
 
 .half-width {
@@ -62,4 +63,20 @@ section {
 .size {
     width: 50%;
     padding-left: 10%;
+}
+
+.bithy {
+    color: tomato;
+}
+
+.hello {
+    width: 40%;
+    box-shadow: 10px 10px 40px darkolivegreen;
+    padding: 5%;
+    margin: 5%;
+}
+
+.akash {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
 }
