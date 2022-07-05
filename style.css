@@ -80,3 +80,15 @@ h1 {
     background-image: url(exp-bg.png);
     background-repeat: no-repeat;
 }
+
+#full {
+    border-left: 10px solid tomato;
+}
+
+#name {
+    border-left: 7PX solid blue;
+}
+
+footer p {
+    text-align: center;
+}
